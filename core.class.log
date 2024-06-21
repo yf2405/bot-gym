@@ -1,0 +1,158 @@
+[handleMsg]:  {
+  key: {
+    remoteJid: '573233368054@s.whatsapp.net',
+    fromMe: false,
+    id: 'BBD1F054ADA738306FD4226BBBD8844D',
+    participant: undefined
+  },
+  messageTimestamp: 1718993370,
+  pushName: 'xc',
+  broadcast: false,
+  message: Message {
+    conversation: 'Hola',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'Hola',
+  from: '573233368054'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_a224c4dc-d5b0-4739-ab79-7e3dece8e592',
+  keyword: 'key_2402a781-488b-4e88-a1c5-f8437da01aa2',
+  answer: '😃 ¡Hola! ¿Cómo va todo? Bienvenido/a al Gimnasio *Desafío Fitness corales*. ¿En qué puedo apoyarte hoy?',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: 'e1431029936340c2b852ce9c850b77ba'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_19bb11e6-e2b7-46d9-af3a-14ba0bbc1bbc',
+  keyword: 'ans_a224c4dc-d5b0-4739-ab79-7e3dece8e592',
+  answer: { capture: true },
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: '0fc644073cf03c32c5a51031105aae06'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '573233368054@s.whatsapp.net',
+    fromMe: false,
+    id: 'CA80D91A52CBA5CB553C7F43AFB0067B',
+    participant: undefined
+  },
+  messageTimestamp: 1718993386,
+  pushName: 'xc',
+  broadcast: false,
+  message: Message {
+    conversation: '4',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: '4',
+  from: '573233368054'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_c3f18330-258b-43bb-beed-1be25495d6eb',
+  keyword: 'key_60ff6140-773e-4f8b-a8a8-3df0d86ae995',
+  answer: '📍 *Dirección:*\n' +
+    'Nos encontramos en [Corales manzana 46 casa #13 piso 2].\n' +
+    '🔙 Para regresar al menú principal, escribe "menu".',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: 'adb5e652ece60a2644ffd4ad5889ea6a'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '34653545001@s.whatsapp.net',
+    fromMe: false,
+    id: '9E1BE246F602EACAAE32FCCAD2D09A4B',
+    participant: undefined
+  },
+  messageTimestamp: 1718993806,
+  pushName: 'Leidy',
+  broadcast: false,
+  message: Message {
+    imageMessage: ImageMessage {
+      interactiveAnnotations: [],
+      scanLengths: [],
+      url: 'https://mmg.whatsapp.net/v/t62.7118-24/26611075_1823081794868596_4182085025686260697_n.enc?ccb=11-4&oh=01_Q5AaIN1jKSERdLR9Y2ZwxzOeAstsrBCQT4WmBUSsuKKrHRuI&oe=669D47EB&_nc_sid=5e03e0&mms3=true',
+      mimetype: 'image/jpeg',
+      fileSha256: [Uint8Array],
+      fileLength: [Long],
+      height: 1280,
+      width: 720,
+      mediaKey: [Uint8Array],
+      fileEncSha256: [Uint8Array],
+      directPath: '/v/t62.7118-24/26611075_1823081794868596_4182085025686260697_n.enc?ccb=11-4&oh=01_Q5AaIN1jKSERdLR9Y2ZwxzOeAstsrBCQT4WmBUSsuKKrHRuI&oe=669D47EB&_nc_sid=5e03e0&_nc_hot=1718993805',
+      mediaKeyTimestamp: [Long],
+      jpegThumbnail: [Uint8Array],
+      contextInfo: [ContextInfo]
+    },
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: '_event_media__f35b870e-372b-4f68-9705-a4b6848abfdf',
+  from: '34653545001'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_fefdd509-58cb-473b-a775-c5b379365fbc',
+  keyword: 'key_f7c61d0b-a80e-4c81-bf4e-831b94702721',
+  answer: '🔥💪🏼🎧\n' +
+    '📅 *Clases y actividades:*\n' +
+    '\n' +
+    '🏋🏽 Clase de rumba: Lunes a las 7:15 pm.\n' +
+    '\n' +
+    '🏋🏽 Clase de running y funcional: Martes a las 7:00 pm.\n' +
+    '\n' +
+    '➡️ ¿Te gustaría más información sobre nuestros servicios adicionales? Oprime *3* o *1* para saber sobre precios.\n' +
+    '\n' +
+    '➡️ Dirección: Oprime *4*.',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: '4238dcdd08c1ccd6d504ba6f53447715'
+}
