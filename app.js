@@ -122,7 +122,7 @@ const menuFlow = addKeyword(['menu'])
 const main = async () => {
     const adapterDB = new MongoAdapter({
         dbUri: process.env.MONGODB_URI,  // Utiliza la variable de entorno aquí
-        dbName: "GymBot"
+        dbName: "sample_mflix"
     });
     const adapterFlow = createFlow([flowPrincipal, menuFlow, flowInfo, flowClases, flowService, flowDireccion, flowGracias]);
     const adapterProvider = createProvider(BaileysProvider);
